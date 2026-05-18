@@ -1,55 +1,57 @@
-# Medical Billing Performance Dashboard 2023 (US)
+# Global Terrorism Analysis Dashboard (2016 - 2017)
 
 ## Project Overview
-This interactive Tableau dashboard provides a comprehensive analysis of medical billing performance in the United States for 2023. It helps healthcare organizations monitor payment trends, appointment patterns, pending balances, insurance payments, and doctor performance for better financial decision-making.
+This interactive Tableau dashboard provides a comprehensive analysis of global terrorism incidents between 2016 and 2017. The dashboard helps identify terrorism trends, attack patterns, affected countries, terrorist groups, casualties, and property damage through powerful visual analytics.
 
 ## Objective
-The main objective of this dashboard is to track medical billing efficiency, identify payment trends, analyze appointment activity, and monitor doctor-wise revenue generation.
+The main objective of this project is to analyze terrorism-related incidents worldwide, uncover hidden trends, identify high-risk regions, and understand the impact of attacks using data-driven insights.
 
 ## Tools & Technologies Used
 - Tableau
 - Data Visualization
+- Data Analytics
 - Business Intelligence
-- Healthcare Analytics
-- Interactive Dashboard Design
+- Exploratory Data Analysis (EDA)
 
 ## Key Features
-- **Payment Summary KPIs**
-  - Paid Amount
-  - Total Payments
-  - Pending Amount
-  - Insurance Payments
-  - Total Appointments
 
-- **Appointments Heatmap**
-  - Analyze appointment trends across weekdays
-  - Identify high and low activity days
+### Executive KPI Metrics
+- Total Killed
+- Total Injured
+- Success Rate
+- Property Damage
+- Average Kills per Incident
 
-- **Payment Status Analysis**
-  - Compare payment performance across hospitals/clinics
-  - Visualize payment distribution
+### Incidents Over Time
+- Analyze monthly terrorism trends
+- Compare incidents between 2016 and 2017
+- Identify periods of increased terrorist activity
 
-- **Monthly Payments vs Appointments**
-  - Track payment and appointment trends month-by-month
-  - Compare business performance over time
+### Top Countries Affected
+- Visualize countries with the highest casualties
+- Compare terrorism impact across regions
 
-- **Top Doctors by Paid Amount**
-  - Identify top-performing doctors based on billing revenue
+### Attack Type Distribution
+- Analyze different attack methods
+- Understand weapon usage patterns
+- Evaluate attack success rates
 
-- **Interactive Filters**
-  - Bill Date
-  - Month
-  - Week
-  - Payment Status
-  - Payment Method
+### Top Terrorist Groups Analysis
+- Identify major terrorist organizations
+- Compare incidents and kill counts by group
 
-## Business Insights
-This dashboard enables healthcare management teams to:
-- Improve billing efficiency
-- Monitor pending and completed payments
-- Analyze doctor performance
-- Track appointment patterns
-- Make data-driven operational decisions
+### Interactive Filters
+- Year Filter
+- Month Filter
+- Country Filter
+
+## Key Insights
+This dashboard enables analysts and researchers to:
+- Identify terrorism hotspots globally
+- Track changes in attack frequency over time
+- Analyze country-wise terrorism impact
+- Understand terrorist group activity
+- Support security and policy decision-making
 
 ## Dashboard Preview
-<img width="1363" height="729" alt="image" src="https://github.com/user-attachments/assets/977b622a-afe4-4550-ba7d-865eb3e30e56" />
+<img width="1363" height="729" alt="image" src="https://github.com/user-attachments/assets/00ee8559-c856-4c13-a10d-50a8479e1c98" />
